@@ -1,0 +1,3 @@
+[submodule "my_plugins/supertab"]
+	path = my_plugins/supertab
+	url = git://github.com/ervandew/supertab.git
