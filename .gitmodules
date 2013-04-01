@@ -1,3 +1,6 @@
 [submodule "my_plugins/supertab"]
 	path = my_plugins/supertab
 	url = git://github.com/ervandew/supertab.git
+[submodule "my_plugins/tagbar"]
+	path = my_plugins/tagbar
+	url = git://github.com/majutsushi/tagbar.git
