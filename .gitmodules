@@ -4,3 +4,12 @@
 [submodule "my_plugins/tagbar"]
 	path = my_plugins/tagbar
 	url = git://github.com/majutsushi/tagbar.git
+[submodule "my_plugins/vim-surroud"]
+	path = my_plugins/vim-surroud
+	url = git://github.com/tpope/vim-surround.git
+[submodule "my_plugins/snipmate"]
+	path = my_plugins/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "my_plugins/syntastic"]
+	path = my_plugins/syntastic
+	url = https://github.com/scrooloose/syntastic.git
