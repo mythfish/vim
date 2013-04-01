@@ -1,4 +1,7 @@
-# This project is fork from https://github.com/amix/vimrc.git, only adding some configs(my_configs.vim) and plugins(my_plugin/) which are my preferred.
+# Note
+
+This project is fork from https://github.com/amix/vimrc.git. 
+I only add some configs(my_configs.vim) and plugins(my_plugins/) which are my favorite.
 
 # The Ultimate vimrc
 
