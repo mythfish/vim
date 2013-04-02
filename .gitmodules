@@ -13,3 +13,9 @@
 [submodule "my_plugins/syntastic"]
 	path = my_plugins/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "my_plugins/exUtility"]
+	path = my_plugins/exUtility
+	url = https://github.com/vim-scripts/exUtility.git
+[submodule "my_plugins/ide"]
+	path = my_plugins/ide
+	url = https://github.com/vim-scripts/ide.git
