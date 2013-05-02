@@ -12,6 +12,7 @@ set background=dark
 
 if has("gui_running")
     colorscheme peaksea
+    "colorscheme desert
 else
     colorscheme ir_black
 endif
