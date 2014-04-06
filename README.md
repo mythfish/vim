@@ -1,4 +1,9 @@
 # The Ultimate vimrc
+###/////////////////////////////////////////////////////////////////////////////////
+### Modifications
+#### Using [NeoBundle](https://github.com/Shougo/neobundle.vim) instead of  [pathogen.vim](https://github.com/tpope/vim-pathogen) as plugin manager.
+#### Add [Trinity](https://github.com/mythfish/Trinity) as windows manager.
+###/////////////////////////////////////////////////////////////////////////////////
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
 
@@ -71,16 +76,23 @@ I recommend reading the docs of these plugins to understand them better. Each of
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim): Fuzzy file, buffer, mru and tag finder. In my config it's mapped to `<Ctrl+F>`, because `<Ctrl+P>` is used by YankRing
 * [mru.vim](https://github.com/vim-scripts/mru.vim): Plugin to manage Most Recently Used (MRU) files. Includes my own fork which adds syntax highlighting to MRU. This plugin can be opened with `<leader+f>`
 * [open_file_under_cursor.vim](https://github.com/amix/open_file_under_cursor.vim): Open file under cursor when pressing `gf`
+<<<<<<< HEAD
 * [zencoding](https://github.com/mattn/emmet-vim): Expanding abbreviation like zen-coding, very useful for editing XML, HTML.
+=======
+* [zencoding](https://github.com/mattn/zencoding-vim): Expanding abbreviation like zen-coding, very useful for editing XML, HTML.
+>>>>>>> 0416281afc0bbed51c267cb0e7c3da71e9ea6020
 * [vim-indent-object](https://github.com/michaeljsmith/vim-indent-object): Defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts
 * [taglist.vim](https://github.com/vim-scripts/taglist.vim): Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
 * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors): Sublime Text style multiple selections for Vim, CTRL+N is remapped to CTRL+S (due to YankRing)
 * [vim-expand-region](https://github.com/terryma/vim-expand-region): Allows you to visually select increasingly larger regions of text using the same key combination.
+<<<<<<< HEAD
 * [vim-airline](https://github.com/bling/vim-airline): Lean & mean status/tabline for vim that's light as air (replacing powerline)
 * [vim-fugitive](https://github.com/tpope/vim-fugitive): A Git wrapper so awesome, it should be illegal
 * [goyo.vim](https://github.com/junegunn/goyo.vim) and [vim-zenroom2](https://github.com/amix/vim-zenroom2): 
 Remove all clutter and focus only on the essential. Similar to iA Writer or Write Room [Read more here](http://amix.dk/blog/post/19744)
 * [vim-commentary](https://github.com/tpope/vim-commentary): Comment stuff out.  Use `gcc` to comment out a line (takes a count), `gc` to comment out the target of a motion. `gcu` uncomments a set of adjacent commented lines.
+=======
+>>>>>>> 0416281afc0bbed51c267cb0e7c3da71e9ea6020
 
 
 ## Included color schemes
@@ -99,7 +111,10 @@ Remove all clutter and focus only on the essential. Similar to iA Writer or Writ
 * [vim-bundle-mako](https://github.com/sophacles/vim-bundle-mako)
 * [vim-markdown](https://github.com/tpope/vim-markdown)
 * [nginx.vim](https://github.com/vim-scripts/nginx.vim): Highlights configuration files for nginx
+<<<<<<< HEAD
 * [vim-golang](https://github.com/jnwhiteh/vim-golang)
+=======
+>>>>>>> 0416281afc0bbed51c267cb0e7c3da71e9ea6020
 
 
 ## How to include your own stuff?

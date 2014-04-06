@@ -31,6 +31,7 @@ vim-snippets https://github.com/honza/vim-snippets
 vim-surround https://github.com/tpope/vim-surround
 vim-expand-region https://github.com/terryma/vim-expand-region
 vim-multiple-cursors https://github.com/terryma/vim-multiple-cursors
+<<<<<<< HEAD
 vim-fugitive https://github.com/tpope/vim-fugitive
 vim-airline https://github.com/bling/vim-airline
 goyo.vim https://github.com/junegunn/goyo.vim
@@ -39,11 +40,17 @@ syntastic https://github.com/scrooloose/syntastic
 vim-repeat https://github.com/tpope/vim-repeat
 vim-commentary https://github.com/tpope/vim-commentary
 vim-golang https://github.com/jnwhiteh/vim-golang
+=======
+>>>>>>> 0416281afc0bbed51c267cb0e7c3da71e9ea6020
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
 
+<<<<<<< HEAD
 SOURCE_DIR = path.join(path.dirname(__file__), 'sources_non_forked')
+=======
+SOURCE_DIR = path.join( path.dirname(__file__), 'sources_non_forked' )
+>>>>>>> 0416281afc0bbed51c267cb0e7c3da71e9ea6020
 
 
 def download_extract_replace(plugin_name, zip_path, temp_dir, source_dir):

@@ -61,3 +61,4 @@ nnoremap <leader>jd :YcmCompleter GoToDefinitionElseDeclaration<CR>
 " https://github.com/pangloss/vim-javascript
 set regexpengine=1
 syntax enable
+

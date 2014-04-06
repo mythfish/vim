@@ -50,6 +50,7 @@ NeoBundle 'majutsushi/tagbar'
 NeoBundle 'pangloss/vim-javascript'
 NeoBundle 'jelera/vim-javascript-syntax'
 NeoBundle 'briancollins/vim-jst'
+NeoBundle 'tomasr/molokai'
 
 " Required:
 filetype plugin indent on
