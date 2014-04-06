@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-bundle/
-temp_dirs/
+bundle/*
 tags
-=======
 temp_dirs/undodir*
-sources_non_forked/ack.vim/.netrwhist
 temp_dirs/yankring_history_v2.txt
-sources_forked/yankring/doc/tags
-sources_non_forked/tlib/doc/tags
->>>>>>> 0416281afc0bbed51c267cb0e7c3da71e9ea6020
