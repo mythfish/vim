@@ -1,4 +1,9 @@
 # The Ultimate vimrc
+###/////////////////////////////////////////////////////////////////////////////////
+### Modifications
+#### Using [NeoBundle](https://github.com/Shougo/neobundle.vim) instead of  [pathogen.vim](https://github.com/tpope/vim-pathogen) as plugin manager.
+#### Add [Trinity](https://github.com/mythfish/Trinity) as windows manager.
+###/////////////////////////////////////////////////////////////////////////////////
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
 
