@@ -44,6 +44,14 @@ Simply just do a git rebase!
     cd ~/.vim_runtime
     git pull --rebase
 
+## Install NeoBundle
+
+If you are using Unix/Linux or Mac OS X.
+
+Run below script.
+
+ $ curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh
+Complete.
 
 ## Some screenshots
 
